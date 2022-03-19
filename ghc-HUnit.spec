@@ -7,7 +7,7 @@ Summary:	A unit testing framework for Haskell
 Summary(pl.UTF-8):	Szkielet testów jednostkowych dla Haskella
 Name:		ghc-%{pkgname}
 Version:	1.6.0.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/HUnit
